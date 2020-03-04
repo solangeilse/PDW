@@ -1,0 +1,153 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#content {
+}
+#header {
+    height: 80px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #FF7B00;
+    margin-bottom: 10px;
+}
+#navega {
+    height: 30px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #FFFA66;
+    margin-bottom: 10px;
+}
+#banner {
+    height: 200px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #04FB50;
+    margin-bottom: 10px;
+}
+#mainhead {
+    height: 30px;
+    background-color: #FF5AE7;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#contenido {
+    height: 600px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #D7C9FF;
+}
+#footer {
+    height: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #FF3538;
+}
+#leftside {
+    background-color: #33DCBA;
+    padding: 10px;
+    height: 580px;
+    width: 40%;
+    margin-right: 10px;
+    float: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+#rightside {
+    background-color: #240BFF;
+
+
+
+
+
+
+
+
+
+
+
+
+    padding: 10
+    float: right;
+    height: 580px;
+    width: 55%;
+    float: right;
+    padding: 10px;
+    top: 0px;
+    overflow: auto;
+}
+#menufijo {
+    background-color: #FF00CD;
+    margin-top: 0%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    margin-left: 33%;
+    position: fixed;
+}
+#c1 {
+    background-color: #FF0004;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    z-index: 1;
+    left: 39px;
+    top: 571px;
+}
+#c2 {
+    background-color: #FFFD00;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    z-index: 2;
+    left: 42px;
+    top: 59px;
+}
+#c3 {
+    background-color: #51FF00;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    z-index: 3;
+    left: 63px;
+    top: 54px;
+}
+#c4 {
+    background-color: #C23AFF;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    z-index: 4;
+    left: 59px;
+    top: 50px;
+}
+#c5 {
+    background-color: #FF9539;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    z-index: 5;
+    left: 48px;
+    top: 51px;
+}
+body {
+    background-color: #FFFFFF;
+    margin-bottom: 0vmax;
+    margin-top: 0vmax;
+    margin-right: 0vmax;
+    margin-left: 0vmax;
+}
